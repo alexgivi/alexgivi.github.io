@@ -2,6 +2,10 @@
     font-size: 14px;
 }
 
+.portfolio-item {
+    margin: 1em;
+}
+
 footer {
     margin: 20px 0 20px;
 }
